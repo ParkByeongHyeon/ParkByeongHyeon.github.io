@@ -23,10 +23,13 @@ If you'd like to chat about research, ideas, or anything interesting, feel free 
 
 ## **Education**
 
-- **M.S. in Electrical Engineering**, Korea Advanced Institute of Science and Technology (KAIST), Daejeon, Korea,  2027 (Expected).
+- **M.S. in Electrical Engineering**
+  Korea Advanced Institute of Science and Technology (KAIST), Daejeon, Korea,  2027 (Expected).
 
-- - **B.S. in Computer Education**, Sungkyunkwan University, Seoul, Korea, 2025.  
+- **B.S. in Computer Education**
+  Sungkyunkwan University, Seoul, Korea, 2025.
   Double Major in Electronic and Electrical Engineering.
+  Graduated *magna cum alude*
 
 ## **Contact**
 
