@@ -1,3 +1,6 @@
+---
+---
+
 @use 'abstracts/variables' with (
   $theme: '{{ site.theme_mode }}'
 );
@@ -11,6 +14,6 @@
 
 /* Keep the name on one line in the sidebar */
 #sidebar .site-title {
-  font-size: 1rem;
+  font-size: 1.4rem;
   white-space: nowrap;
 }
