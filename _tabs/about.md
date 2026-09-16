@@ -6,7 +6,7 @@ order: 4
 
 ## **Hello! 안녕하세요!**
 
-I am a graduate student at [Advanced Radio Technology (ART) Lab](https://artlab.kaist.ac.kr/), advised by [Prof. Joonhyuk Kang](https://scholar.google.com/citations?user=F0gvhmIAAAAJ&hl=en). I received my B.S. in Computer Education with a double major in Electronic and Electrical Engineering from [Sungkyunkwan University](https://www.skku.edu/skku/index.do).
+I am a graduate student in the School of Electrical Engineering at [Korea Advanced Institute of Science and Technology (KAIST)](https://ee.kaist.ac.kr/), where I am a member of the [Advanced Radio Technology (ART) Lab](https://artlab.kaist.ac.kr/) under the supervision of [Prof. Joonhyuk Kang](https://scholar.google.com/citations?user=F0gvhmIAAAAJ&hl=en). I received my B.S. in Computer Education with a double major in Electronic and Electrical Engineering from [Sungkyunkwan University](https://www.skku.edu/skku/index.do).
 
 My research interests lie broadly at the intersection of **artificial intelligence and communication systems**. I am particularly interested in how AI can improve communication systems and how communication systems can better support AI. More generally, I enjoy looking at the same problem from different perspectives and exploring different ways to solve it. This curiosity often takes me beyond the boundaries of my current research. Recently, for example, I have been studying and developing a growing interest in **integrated circuits and hardware systems**.
 
