@@ -11,19 +11,19 @@ I am a graduate student at [Advanced Radio Technology (ART) Lab](https://artlab.
 
 ## **Research Interests**
 
-**- Diffusion Language Model**
-**- Token Communication**
+- **Diffusion Language Model**
+- **Token Communication**
 
 ## **Education**
 
-**-M.S. in Electrical Engineering**, Korea Advanced Institute of Science and Technology (KAIST), Daejeon, Korea
+- **M.S. in Electrical Engineering**, Korea Advanced Institute of Science and Technology (KAIST), Daejeon, Korea
 
-**-B.S. Bachelor of Science in Electrical Engineering (dual degree)**, Sungkyunkwan University, Seoul, Korea,  2025.
+- **B.S. Bachelor of Science in Electrical Engineering (dual degree)**, Sungkyunkwan University, Seoul, Korea,  2025.
 
-**-B.S. Bachelor of Science in Computer Education**, Sungkyunkwan University, Seoul, Korea,  2025.
+- **B.S. Bachelor of Science in Computer Education**, Sungkyunkwan University, Seoul, Korea,  2025.
 
 ## **Contact**
 
-**- Email:** [hyunbp215@gmail.com](mailto:hyunbp215@gmail.com)
-**- GitHub:** [ParkByeongHyeon](https://github.com/ParkByeongHyeon)
-**- LinkedIn:** [Byeonghyeon Park](https://www.linkedin.com/in/byeonghyeon-park-778a05339/)
+- **Email:** [hyunbp215@gmail.com](mailto:hyunbp215@gmail.com)
+- **GitHub:** [ParkByeongHyeon](https://github.com/ParkByeongHyeon)
+- **LinkedIn:** [Byeonghyeon Park](https://www.linkedin.com/in/byeonghyeon-park-778a05339/)
