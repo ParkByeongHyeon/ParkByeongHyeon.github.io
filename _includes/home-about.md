@@ -1,9 +1,3 @@
----
-# the default layout is 'page'
-icon: fas fa-info-circle
-order: 4
----
-
 ## **Hello! 안녕하세요!**
 
 I am a graduate student at [Advanced Radio Technology (ART) Lab](https://artlab.kaist.ac.kr/), advised by [Prof. Joonhyuk Kang](https://scholar.google.com/citations?user=F0gvhmIAAAAJ&hl=en). I received my B.S. in Computer Education with a double major in Electronic and Electrical Engineering from [Sungkyunkwan University](https://www.skku.edu/skku/index.do).
