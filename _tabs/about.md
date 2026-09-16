@@ -29,7 +29,7 @@ If you'd like to chat about research, ideas, or anything interesting, feel free 
 - **B.S. in Computer Education**<br>
   Sungkyunkwan University, Seoul, Korea, 2025.<br>
   Double Major in Electronic and Electrical Engineering.<br>
-  Graduated *magna cum alude*.
+  Graduated *magna cum laude*.
 
 ## **Contact**
 
