@@ -1,7 +1,7 @@
 ---
 # the default layout is 'page'
 icon: fas fa-info-circle
-order: 4
+order: 7
 ---
 
 ## **Hello! 안녕하세요!**
@@ -29,8 +29,35 @@ If you'd like to chat about research, ideas, or anything interesting, feel free 
 - **B.S. in Computer Education**<br>
   Sungkyunkwan University, Seoul, Korea, 2025.<br>
   Double Major in Electronic and Electrical Engineering.<br>
+  Microdegree in Artificial Intelligence Education<br>
   Graduated *magna cum laude*.
 
+## **Publication**
+ - J. Shin<sup>†</sup>, K. Ryum<sup>†</sup>, **B. Park<sup>†</sup>**, and J. Kang, “Distributed LLM Inference via Communication-Efficient Speculative Decoding,” *Under review*.<br>
+  <sup>†</sup> Equal contribution.
+- **B. Park** and J. Kang, “Risk-Calibrated Semantic Transmission for Communication-Efficient Heterogeneous Collaborative Inference,” *ICML 2026 AI4NextG Workshop*.
+
+## **Expereince**
+- **Educational Volunteer**<br>
+  Yeondong Community Child Center<br>
+  Mar. 2024 – Jun. 2025
+
+- **Teaching Practicum**<br>
+  Sunrin Internet High School<br>
+  May 2024
+
+- **University Student Mentor**<br>
+  Samsung Dream Class<br>
+  Mar. 2023 – Feb. 2024
+
+- **University Student Learning Mentor**<br>
+  Dongdaemun-gu Office<br>
+  Jul. 2022 – Aug. 2022
+
+## **Certification**
+ - **Level 2 Secondary School Teacher Certificate in Information and Computer**<br>
+   Ministry of Education, Republic of Korea · Aug. 2025
+   
 ## **Contact**
 
 - **Email:** [hyunbp215@gmail.com](mailto:hyunbp215@gmail.com)
