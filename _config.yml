@@ -16,17 +16,17 @@ timezone: Asia/Seoul
 
 title: Byeonghyeon Park # the main title
 
-tagline: M.S. student, engineer, and educator. # it will display as the subtitle
+tagline: M.S. Student · Engineer · Educator # it will display as the subtitle
 
 description: >- # used by seo meta and the atom feed
-  A minimal, responsive and feature-rich Jekyll theme for technical writing.
-
+    Personal website of Byeonghyeon Park, an M.S. student researching efficient and reliable AI systems, and semantic communications.
+    
 # Fill in the protocol & hostname for your site.
 # E.g. 'https://username.github.io', note that it does not end with a '/'.
-url: ""
+url: "https://parkbyeonghyeon.github.io"
 
 github:
-  username: ParkBYeongHyeon # change to your GitHub username
+  username: ParkByeongHyeon # change to your GitHub username
 
 twitter:
   username: twitter_username # change to your Twitter username
