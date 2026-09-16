@@ -6,7 +6,6 @@
 - type: email
   icon: "fas fa-envelope"
   noblank: true # open link in current tab
-  url: hyunbp215@gmail.com
   
 - type: instagram
   icon: "fab fa-instagram"
