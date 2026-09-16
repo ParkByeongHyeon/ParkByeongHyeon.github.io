@@ -17,8 +17,7 @@ timezone: Asia/Seoul
 title: Byeonghyeon Park # the main title
 
 tagline: 
-M.S. Student · Engineer · Educator 
-hyunbp215@gmail.com # it will display as the subtitle
+M.S. Student · Engineer · Educator<br>hyunbp215@gmail.com
 
 description: >- # used by seo meta and the atom feed
     Personal website of Byeonghyeon Park, an M.S. student researching efficient and reliable AI systems, and semantic communications.
