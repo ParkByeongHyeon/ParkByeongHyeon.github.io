@@ -1,0 +1,16 @@
+@use 'abstracts/variables' with (
+  $theme: '{{ site.theme_mode }}'
+);
+
+/* prettier-ignore */
+@use 'main
+{%- if jekyll.environment == 'production' -%}
+  .bundle
+{%- endif -%}
+';
+
+/* Keep the name on one line in the sidebar */
+#sidebar .site-title {
+  font-size: 1.4rem;
+  white-space: nowrap;
+}
